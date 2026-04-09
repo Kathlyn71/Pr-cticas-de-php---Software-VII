@@ -93,5 +93,5 @@ Se utiliza foreach para mostrar tanto la clave (país) como el valor (moneda).
 
 Se demuestra la diferencia entre operaciones con y sin paréntesis.
 
-![Resultado del ejercicio 10](img/img8.jpeg)
+![Resultado](img8.jpeg)v
 
