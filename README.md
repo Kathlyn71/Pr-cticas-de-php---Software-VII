@@ -21,7 +21,7 @@ Se verifica que las variables sean del tipo correcto antes de imprimir el mensaj
 Se utilizan funciones como is_integer() y is_string() para verificar que las variables sean del
 tipo correcto antes de imprimir un mensaje.
 
-![Resultado](img9.jpeg)
+<img src="img9.jpeg" width="400">
 
 ---
 
@@ -29,7 +29,7 @@ tipo correcto antes de imprimir un mensaje.
 
 Se realiza una operación de multiplicación entre dos números.
 
-![Resultado](img6.jpeg)
+<img src="img6.jpeg" width="400">
 
 ---
 
@@ -37,7 +37,7 @@ Se realiza una operación de multiplicación entre dos números.
 
 Se realiza una operación de resta entre dos números.
 
-![Resultado](img7.jpeg)
+<img src="img7.jpeg" width="400">
 
 ---
 
@@ -45,7 +45,7 @@ Se realiza una operación de resta entre dos números.
 
 Se realiza una operación de suma entre dos números.
 
-![Resultado](img5.jpeg)
+<img src="img5.jpeg" width="400">
 
 ---
 
@@ -54,7 +54,7 @@ Se realiza una operación de suma entre dos números.
 Se crea un arreglo de animales y se recorre utilizando foreach,
 imprimiendo cada elemento en una nueva línea.
 
-![Resultado](img3.jpeg)
+<img src="img3.jpeg" width="400">
 
 ---
 
@@ -67,7 +67,7 @@ Sintaxis alternativa con endwhile
 
 Ambas imprimen los números del 1 al 10.
 
-![Resultado](img2.jpeg)
+<img src="img2.jpeg" width="400">
 
 ---
 
@@ -76,7 +76,7 @@ Ambas imprimen los números del 1 al 10.
 Se utiliza foreach para recorrer un arreglo de objetos
 (cosas por comprar) y mostrarlos en pantalla.
 
-![Resultado](img1.jpeg)
+<img src="img1.jpeg" width="400">
 
 ---
 
@@ -85,7 +85,7 @@ Se utiliza foreach para recorrer un arreglo de objetos
 Se crea un arreglo donde cada país tiene asociada su moneda.
 Se utiliza foreach para mostrar tanto la clave (país) como el valor (moneda).
 
-![Resultado](img4.jpeg)
+<img src="img4.jpeg" width="400">
 
 ---
 
@@ -93,5 +93,5 @@ Se utiliza foreach para mostrar tanto la clave (país) como el valor (moneda).
 
 Se demuestra la diferencia entre operaciones con y sin paréntesis.
 
-![Resultado](img8.jpeg)v
+<img src="img8.jpeg" width="400">
 
