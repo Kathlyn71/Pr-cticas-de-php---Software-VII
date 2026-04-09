@@ -12,7 +12,7 @@ En esta práctica se desarrollan diferentes ejemplos en PHP para comprender el u
 
 Este programa muestra diferentes tamaños de texto usando un ciclo for.
 
-![Resultado](img10.jpeg)
+![Resultado](img10.png)
 
 
 ## Ejercicio 2: Validación de tipos de datos
