@@ -12,7 +12,7 @@ En esta práctica se desarrollan diferentes ejemplos en PHP para comprender el u
 
 Este programa muestra diferentes tamaños de texto usando un ciclo for.
 
-![Resultado del ejercicio 1](img/img10.jpeg)
+(img10.jpeg)
 
 
 ## Ejercicio 2: Validación de tipos de datos
@@ -21,7 +21,7 @@ Se verifica que las variables sean del tipo correcto antes de imprimir el mensaj
 Se utilizan funciones como is_integer() y is_string() para verificar que las variables sean del
 tipo correcto antes de imprimir un mensaje.
 
-![Resultado del ejercicio 2](img/img9.jpeg)
+(img9.jpeg)
 
 ---
 
