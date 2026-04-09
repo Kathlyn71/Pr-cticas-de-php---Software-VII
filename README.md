@@ -21,7 +21,7 @@ Se verifica que las variables sean del tipo correcto antes de imprimir el mensaj
 Se utilizan funciones como is_integer() y is_string() para verificar que las variables sean del
 tipo correcto antes de imprimir un mensaje.
 
-(img9.jpeg)
+![Resultado](img9.jpeg)
 
 ---
 
@@ -29,7 +29,7 @@ tipo correcto antes de imprimir un mensaje.
 
 Se realiza una operación de multiplicación entre dos números.
 
-![Resultado del ejercicio 3](img/img6.jpeg)
+![Resultado](img6.jpeg)
 
 ---
 
@@ -37,7 +37,7 @@ Se realiza una operación de multiplicación entre dos números.
 
 Se realiza una operación de resta entre dos números.
 
-![Resultado del ejercicio 4](img/img7.jpeg)
+![Resultado](img7.jpeg)
 
 ---
 
@@ -45,7 +45,7 @@ Se realiza una operación de resta entre dos números.
 
 Se realiza una operación de suma entre dos números.
 
-![Resultado del ejercicio 5](img/img5.jpeg)
+![Resultado](img5.jpeg)
 
 ---
 
@@ -54,7 +54,7 @@ Se realiza una operación de suma entre dos números.
 Se crea un arreglo de animales y se recorre utilizando foreach,
 imprimiendo cada elemento en una nueva línea.
 
-![Resultado del ejercicio 6](img/img3.jpeg)
+![Resultado](img3.jpeg)
 
 ---
 
@@ -67,7 +67,7 @@ Sintaxis alternativa con endwhile
 
 Ambas imprimen los números del 1 al 10.
 
-![Resultado del ejercicio 7](img/img2.jpeg)
+![Resultado](img2.jpeg)
 
 ---
 
@@ -76,7 +76,7 @@ Ambas imprimen los números del 1 al 10.
 Se utiliza foreach para recorrer un arreglo de objetos
 (cosas por comprar) y mostrarlos en pantalla.
 
-![Resultado del ejercicio 8](img/img1.jpeg)
+![Resultado](img1.jpeg)
 
 ---
 
@@ -85,7 +85,7 @@ Se utiliza foreach para recorrer un arreglo de objetos
 Se crea un arreglo donde cada país tiene asociada su moneda.
 Se utiliza foreach para mostrar tanto la clave (país) como el valor (moneda).
 
-![Resultado del ejercicio 9](img/img4.jpeg)
+![Resultado](img4.jpeg)
 
 ---
 
